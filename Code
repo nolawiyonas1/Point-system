@@ -1,7 +1,3 @@
-# Created by: Nolawi Teklehaimanot, Josh Crisologo, Joshua Adolfo
-# Description: This program uses a point system to determine the order in which students will get to select their housing
-# Date: Friday June 17
-
 import math  # importing the math module to use its functions
 import tkinter as tk  # importing the tkinter module to create a GUI for this program
 
