@@ -65,7 +65,6 @@ final_msg_frame.grid(row=3, column=1)
 
 # Functions
 
-
 def add_points(
         point):  # this function adds points to the current_score variable
     # creating the point counter
